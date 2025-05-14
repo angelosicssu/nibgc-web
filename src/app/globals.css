@@ -4,3 +4,8 @@
   --background: #ffffff;
   --foreground: #171717;
 }
+
+.text-stroke {
+  -webkit-text-stroke: 3px white;
+  color: transparent;
+}
